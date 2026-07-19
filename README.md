@@ -83,3 +83,16 @@ The objective is to enable business teams to identify high-risk customers and ta
 
 - Git
 - GitHub
+<img width="1600" height="705" alt="image" src="https://github.com/user-attachments/assets/c49755bb-2cf1-4814-8f27-6f70031ac165" />
+<img width="1600" height="656" alt="image" src="https://github.com/user-attachments/assets/d0855ead-edab-4f13-abda-365a24e110b1" />
+<img width="1600" height="471" alt="image" src="https://github.com/user-attachments/assets/205d12f2-a15f-4341-b1e0-918cfaf7e72c" />
+<img width="1600" height="640" alt="image" src="https://github.com/user-attachments/assets/4f530e29-187c-42a7-a8be-76fb26c6c9ee" />
+<img width="1600" height="585" alt="image" src="https://github.com/user-attachments/assets/2a091b84-8b1e-4538-8cdd-b0127c1a764b" />
+<img width="1600" height="619" alt="image" src="https://github.com/user-attachments/assets/fcbe3536-5033-4b1d-9fe5-3576ebd9d51e" />
+<img width="1600" height="660" alt="image" src="https://github.com/user-attachments/assets/1de7dd9b-8cda-453c-b61c-239798d1f855" />
+
+
+
+
+
+
