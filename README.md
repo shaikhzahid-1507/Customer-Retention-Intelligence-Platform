@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-**Application:** *(Paste your Streamlit URL here after deployment)*
+**Application:** https://customer-churn-retention-intelligence-platform.streamlit.app/
 
 **GitHub Repository:**  
 https://github.com/shaikhzahid-1507/Customer-Retention-Intelligence-Platform
